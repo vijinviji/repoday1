@@ -17,7 +17,9 @@ public class Family {
 	}
 	
 	private void talkingStyle(String  Friends) {
-		System.out.println("always speak fun-"+Friends);
+		System.out.println("always talk"
+				+ " fun-"+Friends);
+		
 	}
 	
 	
